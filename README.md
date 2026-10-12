@@ -1,6 +1,6 @@
 # beads-navigator
 
-travelers guide for light cones: a one-page reference for the mutable instruments beads texture synthesizer. grain generation, playback, attenurandomizers, delay / slicer, the wavetable synth, every held-button combo and LED colour, with diagrams.
+travelers guide for managing memory spells: a one-page reference for the mutable instruments beads texture synthesizer. grain generation, playback, attenurandomizers, delay / slicer, the wavetable synth, every held-button combo and LED colour, with diagrams.
 
 live page: https://mellotom.github.io/beads-navigator/
 part of the [travelers guide welcome center](https://mellotom.github.io/travelers-guide/).
